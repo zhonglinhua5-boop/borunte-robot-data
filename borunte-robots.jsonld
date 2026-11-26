@@ -1,0 +1,75 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "name": "BORUNTE industrial robots — models, specifications and USD prices",
+ "description": "58 BORUNTE robot and manipulator models with payload, reach, repeatability and USD list price.",
+ "url": "https://borunteofficial.com/data/",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "creator": {
+  "@type": "Organization",
+  "name": "borunteofficial.com",
+  "url": "https://borunteofficial.com/"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "borunteofficial.com",
+  "url": "https://borunteofficial.com/"
+ },
+ "about": {
+  "@type": "Thing",
+  "name": "BORUNTE industrial robots"
+ },
+ "isBasedOn": "https://www.borunte.net/",
+ "version": "2026-11",
+ "dateModified": "2026-11-24",
+ "isAccessibleForFree": true,
+ "conditionsOfAccess": "CC BY 4.0",
+ "keywords": [
+  "BORUNTE",
+  "industrial robot",
+  "payload",
+  "reach",
+  "repeatability",
+  "USD price"
+ ],
+ "variableMeasured": [
+  {
+   "@type": "PropertyValue",
+   "name": "payload_kg",
+   "unitText": "kg"
+  },
+  {
+   "@type": "PropertyValue",
+   "name": "reach_mm",
+   "unitText": "mm"
+  },
+  {
+   "@type": "PropertyValue",
+   "name": "repeatability_mm",
+   "unitText": "mm"
+  },
+  {
+   "@type": "PropertyValue",
+   "name": "price_usd",
+   "unitText": "USD"
+  }
+ ],
+ "measurementTechnique": "逐型号参数按厂商口径记录",
+ "distribution": [
+  {
+   "@type": "DataDownload",
+   "encodingFormat": "application/json",
+   "contentUrl": "https://borunteofficial.com/data/borunte-robots.json"
+  },
+  {
+   "@type": "DataDownload",
+   "encodingFormat": "text/csv",
+   "contentUrl": "https://borunteofficial.com/data/borunte-robots.csv"
+  },
+  {
+   "@type": "DataDownload",
+   "encodingFormat": "application/ld+json",
+   "contentUrl": "https://borunteofficial.com/data/borunte-robots.jsonld"
+  }
+ ]
+}

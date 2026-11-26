@@ -1,0 +1,761 @@
+{
+ "dataset": "BORUNTE industrial robots — models, specifications and USD prices",
+ "publisher": "borunteofficial.com",
+ "license": "CC BY 4.0",
+ "count": 58,
+ "payload_range_kg": [
+  1,
+  1000
+ ],
+ "reach_range_mm": [
+  574,
+  3503
+ ],
+ "updated": "2026-11-22",
+ "models": [
+  {
+   "model": "BRTHC100501A",
+   "series": "Collaborative welding workstation",
+   "axes": null,
+   "payload_kg": null,
+   "reach_mm": 2350.0,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Arc welding"
+   ],
+   "price_usd": 11400,
+   "url": "https://borunteofficial.com/products/brthc100501a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTHC100502A",
+   "series": "Collaborative welding workstation",
+   "axes": null,
+   "payload_kg": null,
+   "reach_mm": 1000.0,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Arc welding"
+   ],
+   "price_usd": 10900,
+   "url": "https://borunteofficial.com/products/brthc100502a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPH1920A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 20.0,
+   "reach_mm": 1930.5,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 5800,
+   "url": "https://borunteofficial.com/products/brtirph1920a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPL1003A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 3.0,
+   "reach_mm": 1000.0,
+   "repeatability_mm": 0.1,
+   "applications": null,
+   "price_usd": 6500,
+   "url": "https://borunteofficial.com/products/brtirpl1003a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPL1203A",
+   "series": "Five-axis robot",
+   "axes": 5,
+   "payload_kg": 3.0,
+   "reach_mm": 1200.0,
+   "repeatability_mm": 0.1,
+   "applications": null,
+   "price_usd": 7700,
+   "url": "https://borunteofficial.com/products/brtirpl1203a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPL1215A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 15.0,
+   "reach_mm": 1200.0,
+   "repeatability_mm": 0.1,
+   "applications": null,
+   "price_usd": 7800,
+   "url": "https://borunteofficial.com/products/brtirpl1215a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPL1608A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 8.0,
+   "reach_mm": 1600.0,
+   "repeatability_mm": 0.1,
+   "applications": null,
+   "price_usd": 7000,
+   "url": "https://borunteofficial.com/products/brtirpl1608a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPZ1508A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 8.0,
+   "reach_mm": 1413.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 4600,
+   "url": "https://borunteofficial.com/products/brtirpz1508a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPZ1825A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 25.0,
+   "reach_mm": 1800.0,
+   "repeatability_mm": 0.08,
+   "applications": null,
+   "price_usd": 5700,
+   "url": "https://borunteofficial.com/products/brtirpz1825a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPZ1865X",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 65.0,
+   "reach_mm": 2000.0,
+   "repeatability_mm": 0.15,
+   "applications": null,
+   "price_usd": 7200,
+   "url": "https://borunteofficial.com/products/brtirpz1865x/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPZ2080X",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 80.0,
+   "reach_mm": 2000.0,
+   "repeatability_mm": 0.15,
+   "applications": null,
+   "price_usd": 8600,
+   "url": "https://borunteofficial.com/products/brtirpz2080x/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPZ2465X",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 65.0,
+   "reach_mm": 2334.0,
+   "repeatability_mm": 0.15,
+   "applications": null,
+   "price_usd": 8800,
+   "url": "https://borunteofficial.com/products/brtirpz2465x/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRPZ2480A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 80.0,
+   "reach_mm": 2412.0,
+   "repeatability_mm": 0.2,
+   "applications": null,
+   "price_usd": 13700,
+   "url": "https://borunteofficial.com/products/brtirpz2480a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRSC0603A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 3.0,
+   "reach_mm": 600.0,
+   "repeatability_mm": 0.02,
+   "applications": null,
+   "price_usd": 3300,
+   "url": "https://borunteofficial.com/products/brtirsc0603a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRSC0810A",
+   "series": "Four-axis robot",
+   "axes": 4,
+   "payload_kg": 10.0,
+   "reach_mm": 800.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 5100,
+   "url": "https://borunteofficial.com/products/brtirsc0810a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRSE2013A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 13.0,
+   "reach_mm": 2134.0,
+   "repeatability_mm": 0.5,
+   "applications": null,
+   "price_usd": 10300,
+   "url": "https://borunteofficial.com/products/brtirse2013a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRSE2013F",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 13.0,
+   "reach_mm": 2134.0,
+   "repeatability_mm": 0.5,
+   "applications": null,
+   "price_usd": 18900,
+   "url": "https://borunteofficial.com/products/brtirse2013f/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS0401A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 1.0,
+   "reach_mm": 574.0,
+   "repeatability_mm": 0.06,
+   "applications": null,
+   "price_usd": 3800,
+   "url": "https://borunteofficial.com/products/brtirus0401a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS0707A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 7.0,
+   "reach_mm": 883.0,
+   "repeatability_mm": 0.03,
+   "applications": null,
+   "price_usd": 3900,
+   "url": "https://borunteofficial.com/products/brtirus0707a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS0805A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 5.0,
+   "reach_mm": 990.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 3000,
+   "url": "https://borunteofficial.com/products/brtirus0805a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS1510A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 10.0,
+   "reach_mm": 1587.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 4000,
+   "url": "https://borunteofficial.com/products/brtirus1510a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS1820A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 20.0,
+   "reach_mm": 1895.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 5400,
+   "url": "https://borunteofficial.com/products/brtirus1820a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS2030A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 30.0,
+   "reach_mm": 2068.0,
+   "repeatability_mm": 0.08,
+   "applications": null,
+   "price_usd": 6700,
+   "url": "https://borunteofficial.com/products/brtirus2030a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS2110A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 10.0,
+   "reach_mm": 2131.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 5500,
+   "url": "https://borunteofficial.com/products/brtirus2110a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS2520B",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 200.0,
+   "reach_mm": 2637.0,
+   "repeatability_mm": 0.2,
+   "applications": null,
+   "price_usd": 18200,
+   "url": "https://borunteofficial.com/products/brtirus2520b/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS2550A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 50.0,
+   "reach_mm": 2563.0,
+   "repeatability_mm": 0.1,
+   "applications": null,
+   "price_usd": 13400,
+   "url": "https://borunteofficial.com/products/brtirus2550a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS2650A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 50.0,
+   "reach_mm": 2600.0,
+   "repeatability_mm": 0.1,
+   "applications": null,
+   "price_usd": 12900,
+   "url": "https://borunteofficial.com/products/brtirus2650a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS2830B",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 300.0,
+   "reach_mm": 3100.0,
+   "repeatability_mm": 0.2,
+   "applications": null,
+   "price_usd": 29300,
+   "url": "https://borunteofficial.com/products/brtirus2830b/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS2917B",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 170.0,
+   "reach_mm": 3168.0,
+   "repeatability_mm": 0.2,
+   "applications": null,
+   "price_usd": 18200,
+   "url": "https://borunteofficial.com/products/brtirus2917b/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS3012C",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 1000.0,
+   "reach_mm": 3313.0,
+   "repeatability_mm": 0.1,
+   "applications": null,
+   "price_usd": 93200,
+   "url": "https://borunteofficial.com/products/brtirus3012c/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS3030A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 30.0,
+   "reach_mm": 3000.0,
+   "repeatability_mm": 0.06,
+   "applications": null,
+   "price_usd": 11000,
+   "url": "https://borunteofficial.com/products/brtirus3030a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS3050B",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 500.0,
+   "reach_mm": 3200.0,
+   "repeatability_mm": 0.2,
+   "applications": null,
+   "price_usd": 46000,
+   "url": "https://borunteofficial.com/products/brtirus3050b/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRUS3511A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 100.0,
+   "reach_mm": 3503.0,
+   "repeatability_mm": 0.2,
+   "applications": null,
+   "price_usd": 18200,
+   "url": "https://borunteofficial.com/products/brtirus3511a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRWD1506A",
+   "series": "Six-axis robot",
+   "axes": 6,
+   "payload_kg": 6.0,
+   "reach_mm": 1647.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 5800,
+   "url": "https://borunteofficial.com/products/brtirwd1506a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRXZ1005A",
+   "series": "Collaborative robot",
+   "axes": null,
+   "payload_kg": 5.0,
+   "reach_mm": 1000.0,
+   "repeatability_mm": 0.05,
+   "applications": null,
+   "price_usd": 4600,
+   "url": "https://borunteofficial.com/products/brtirxz1005a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTIRXZ1515A",
+   "series": "Six axis robot (lightweight)",
+   "axes": null,
+   "payload_kg": 15.0,
+   "reach_mm": 1500.0,
+   "repeatability_mm": 0.08,
+   "applications": null,
+   "price_usd": 5500,
+   "url": "https://borunteofficial.com/products/brtirxz1515a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTMD163001A",
+   "series": "Palletizing workstation",
+   "axes": null,
+   "payload_kg": 30.0,
+   "reach_mm": 1600.0,
+   "repeatability_mm": 0.1,
+   "applications": [
+    "Palletizing"
+   ],
+   "price_usd": 7200,
+   "url": "https://borunteofficial.com/products/brtmd163001a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTMD193501A",
+   "series": "Palletizing workstation",
+   "axes": null,
+   "payload_kg": 35.0,
+   "reach_mm": 1895.0,
+   "repeatability_mm": 0.1,
+   "applications": [
+    "Palletizing"
+   ],
+   "price_usd": 7800,
+   "url": "https://borunteofficial.com/products/brtmd193501a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTMD195001A",
+   "series": "Palletizing workstation",
+   "axes": null,
+   "payload_kg": 50.0,
+   "reach_mm": 1895.0,
+   "repeatability_mm": 0.1,
+   "applications": [
+    "Palletizing"
+   ],
+   "price_usd": 8500,
+   "url": "https://borunteofficial.com/products/brtmd195001a/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTN17WSS3PC",
+   "series": "3-axis servo manipulator",
+   "axes": 3,
+   "payload_kg": 20.0,
+   "reach_mm": null,
+   "repeatability_mm": null,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 4900,
+   "url": "https://borunteofficial.com/products/brtn17wss3pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTN17WSS5PC",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 20.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.1,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 5700,
+   "url": "https://borunteofficial.com/products/brtn17wss5pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTN24WSS5PC",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 40.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 12700,
+   "url": "https://borunteofficial.com/products/brtn24wss5pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTN30WSS5PC",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 60.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.1,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 13400,
+   "url": "https://borunteofficial.com/products/brtn30wss5pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTN30WSS5PF",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 60.0,
+   "reach_mm": null,
+   "repeatability_mm": null,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 13900,
+   "url": "https://borunteofficial.com/products/brtn30wss5pf/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTNG09WSS3P",
+   "series": "3-axis servo manipulator",
+   "axes": 3,
+   "payload_kg": 2.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 3600,
+   "url": "https://borunteofficial.com/products/brtng09wss3p/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTNG11WSS3P",
+   "series": "3-axis servo manipulator",
+   "axes": 3,
+   "payload_kg": 2.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 3600,
+   "url": "https://borunteofficial.com/products/brtng11wss3p/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTNN11WSS3P",
+   "series": "3-axis servo manipulator",
+   "axes": 3,
+   "payload_kg": 10.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 3100,
+   "url": "https://borunteofficial.com/products/brtnn11wss3p/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTNN15WSS3P",
+   "series": "3-axis servo manipulator",
+   "axes": 3,
+   "payload_kg": 15.0,
+   "reach_mm": null,
+   "repeatability_mm": null,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 4300,
+   "url": "https://borunteofficial.com/products/brtnn15wss3p/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTNN15WSS4P",
+   "series": "4-axis servo manipulator",
+   "axes": 4,
+   "payload_kg": 15.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.1,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 4800,
+   "url": "https://borunteofficial.com/products/brtnn15wss4p/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTNN15WSS5P",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 15.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.1,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 5100,
+   "url": "https://borunteofficial.com/products/brtnn15wss5p/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTP07ISS1PC",
+   "series": "1-axis servo manipulator",
+   "axes": 1,
+   "payload_kg": 2.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 1400,
+   "url": "https://borunteofficial.com/products/brtp07iss1pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTP08WSS0PC",
+   "series": "Servo manipulator",
+   "axes": null,
+   "payload_kg": 2.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 900,
+   "url": "https://borunteofficial.com/products/brtp08wss0pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTR07WDS5PC",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 3.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 2800,
+   "url": "https://borunteofficial.com/products/brtr07wds5pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTR08TDS5PC",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 3.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 4200,
+   "url": "https://borunteofficial.com/products/brtr08tds5pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTR11WDS5PC",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 10.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 3000,
+   "url": "https://borunteofficial.com/products/brtr11wds5pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTV09WDS5P0",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 5.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 5900,
+   "url": "https://borunteofficial.com/products/brtv09wds5p0/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTV13WDS5P0",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 8.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 7000,
+   "url": "https://borunteofficial.com/products/brtv13wds5p0/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  },
+  {
+   "model": "BRTV17WSS5PC",
+   "series": "5-axis servo manipulator",
+   "axes": 5,
+   "payload_kg": 20.0,
+   "reach_mm": null,
+   "repeatability_mm": 0.05,
+   "applications": [
+    "Injection molding take-out"
+   ],
+   "price_usd": 10300,
+   "url": "https://borunteofficial.com/products/brtv17wss5pc/",
+   "source_note": "From borunteofficial.com product page specification table (verified)."
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+﻿model,series,axes,payload_kg,reach_mm,repeatability_mm,price_usd,url
+BRTHC100501A,Collaborative welding workstation,,,2350.0,0.05,11400,https://borunteofficial.com/products/brthc100501a/
+BRTHC100502A,Collaborative welding workstation,,,1000.0,0.05,10900,https://borunteofficial.com/products/brthc100502a/
+BRTIRPH1920A,Six-axis robot,6,20.0,1930.5,0.05,5800,https://borunteofficial.com/products/brtirph1920a/
+BRTIRPL1003A,Four-axis robot,4,3.0,1000.0,0.1,6500,https://borunteofficial.com/products/brtirpl1003a/
+BRTIRPL1203A,Five-axis robot,5,3.0,1200.0,0.1,7700,https://borunteofficial.com/products/brtirpl1203a/
+BRTIRPL1215A,Four-axis robot,4,15.0,1200.0,0.1,7800,https://borunteofficial.com/products/brtirpl1215a/
+BRTIRPL1608A,Four-axis robot,4,8.0,1600.0,0.1,7000,https://borunteofficial.com/products/brtirpl1608a/
+BRTIRPZ1508A,Four-axis robot,4,8.0,1413.0,0.05,4600,https://borunteofficial.com/products/brtirpz1508a/
+BRTIRPZ1825A,Four-axis robot,4,25.0,1800.0,0.08,5700,https://borunteofficial.com/products/brtirpz1825a/
+BRTIRPZ1865X,Four-axis robot,4,65.0,2000.0,0.15,7200,https://borunteofficial.com/products/brtirpz1865x/
+BRTIRPZ2080X,Four-axis robot,4,80.0,2000.0,0.15,8600,https://borunteofficial.com/products/brtirpz2080x/
+BRTIRPZ2465X,Four-axis robot,4,65.0,2334.0,0.15,8800,https://borunteofficial.com/products/brtirpz2465x/
+BRTIRPZ2480A,Four-axis robot,4,80.0,2412.0,0.2,13700,https://borunteofficial.com/products/brtirpz2480a/
+BRTIRSC0603A,Four-axis robot,4,3.0,600.0,0.02,3300,https://borunteofficial.com/products/brtirsc0603a/
+BRTIRSC0810A,Four-axis robot,4,10.0,800.0,0.05,5100,https://borunteofficial.com/products/brtirsc0810a/
+BRTIRSE2013A,Six-axis robot,6,13.0,2134.0,0.5,10300,https://borunteofficial.com/products/brtirse2013a/
+BRTIRSE2013F,Six-axis robot,6,13.0,2134.0,0.5,18900,https://borunteofficial.com/products/brtirse2013f/
+BRTIRUS0401A,Six-axis robot,6,1.0,574.0,0.06,3800,https://borunteofficial.com/products/brtirus0401a/
+BRTIRUS0707A,Six-axis robot,6,7.0,883.0,0.03,3900,https://borunteofficial.com/products/brtirus0707a/
+BRTIRUS0805A,Six-axis robot,6,5.0,990.0,0.05,3000,https://borunteofficial.com/products/brtirus0805a/
+BRTIRUS1510A,Six-axis robot,6,10.0,1587.0,0.05,4000,https://borunteofficial.com/products/brtirus1510a/
+BRTIRUS1820A,Six-axis robot,6,20.0,1895.0,0.05,5400,https://borunteofficial.com/products/brtirus1820a/
+BRTIRUS2030A,Six-axis robot,6,30.0,2068.0,0.08,6700,https://borunteofficial.com/products/brtirus2030a/
+BRTIRUS2110A,Six-axis robot,6,10.0,2131.0,0.05,5500,https://borunteofficial.com/products/brtirus2110a/
+BRTIRUS2520B,Six-axis robot,6,200.0,2637.0,0.2,18200,https://borunteofficial.com/products/brtirus2520b/
+BRTIRUS2550A,Six-axis robot,6,50.0,2563.0,0.1,13400,https://borunteofficial.com/products/brtirus2550a/
+BRTIRUS2650A,Six-axis robot,6,50.0,2600.0,0.1,12900,https://borunteofficial.com/products/brtirus2650a/
+BRTIRUS2830B,Six-axis robot,6,300.0,3100.0,0.2,29300,https://borunteofficial.com/products/brtirus2830b/
+BRTIRUS2917B,Six-axis robot,6,170.0,3168.0,0.2,18200,https://borunteofficial.com/products/brtirus2917b/
+BRTIRUS3012C,Six-axis robot,6,1000.0,3313.0,0.1,93200,https://borunteofficial.com/products/brtirus3012c/
+BRTIRUS3030A,Six-axis robot,6,30.0,3000.0,0.06,11000,https://borunteofficial.com/products/brtirus3030a/
+BRTIRUS3050B,Six-axis robot,6,500.0,3200.0,0.2,46000,https://borunteofficial.com/products/brtirus3050b/
+BRTIRUS3511A,Six-axis robot,6,100.0,3503.0,0.2,18200,https://borunteofficial.com/products/brtirus3511a/
+BRTIRWD1506A,Six-axis robot,6,6.0,1647.0,0.05,5800,https://borunteofficial.com/products/brtirwd1506a/
+BRTIRXZ1005A,Collaborative robot,,5.0,1000.0,0.05,4600,https://borunteofficial.com/products/brtirxz1005a/
+BRTIRXZ1515A,Six axis robot (lightweight),,15.0,1500.0,0.08,5500,https://borunteofficial.com/products/brtirxz1515a/
+BRTMD163001A,Palletizing workstation,,30.0,1600.0,0.1,7200,https://borunteofficial.com/products/brtmd163001a/
+BRTMD193501A,Palletizing workstation,,35.0,1895.0,0.1,7800,https://borunteofficial.com/products/brtmd193501a/
+BRTMD195001A,Palletizing workstation,,50.0,1895.0,0.1,8500,https://borunteofficial.com/products/brtmd195001a/
+BRTN17WSS3PC,3-axis servo manipulator,3,20.0,,,4900,https://borunteofficial.com/products/brtn17wss3pc/
+BRTN17WSS5PC,5-axis servo manipulator,5,20.0,,0.1,5700,https://borunteofficial.com/products/brtn17wss5pc/
+BRTN24WSS5PC,5-axis servo manipulator,5,40.0,,0.05,12700,https://borunteofficial.com/products/brtn24wss5pc/
+BRTN30WSS5PC,5-axis servo manipulator,5,60.0,,0.1,13400,https://borunteofficial.com/products/brtn30wss5pc/
+BRTN30WSS5PF,5-axis servo manipulator,5,60.0,,,13900,https://borunteofficial.com/products/brtn30wss5pf/
+BRTNG09WSS3P,3-axis servo manipulator,3,2.0,,0.05,3600,https://borunteofficial.com/products/brtng09wss3p/
+BRTNG11WSS3P,3-axis servo manipulator,3,2.0,,0.05,3600,https://borunteofficial.com/products/brtng11wss3p/
+BRTNN11WSS3P,3-axis servo manipulator,3,10.0,,0.05,3100,https://borunteofficial.com/products/brtnn11wss3p/
+BRTNN15WSS3P,3-axis servo manipulator,3,15.0,,,4300,https://borunteofficial.com/products/brtnn15wss3p/
+BRTNN15WSS4P,4-axis servo manipulator,4,15.0,,0.1,4800,https://borunteofficial.com/products/brtnn15wss4p/
+BRTNN15WSS5P,5-axis servo manipulator,5,15.0,,0.1,5100,https://borunteofficial.com/products/brtnn15wss5p/
+BRTP07ISS1PC,1-axis servo manipulator,1,2.0,,0.05,1400,https://borunteofficial.com/products/brtp07iss1pc/
+BRTP08WSS0PC,Servo manipulator,,2.0,,0.05,900,https://borunteofficial.com/products/brtp08wss0pc/
+BRTR07WDS5PC,5-axis servo manipulator,5,3.0,,0.05,2800,https://borunteofficial.com/products/brtr07wds5pc/
+BRTR08TDS5PC,5-axis servo manipulator,5,3.0,,0.05,4200,https://borunteofficial.com/products/brtr08tds5pc/
+BRTR11WDS5PC,5-axis servo manipulator,5,10.0,,0.05,3000,https://borunteofficial.com/products/brtr11wds5pc/
+BRTV09WDS5P0,5-axis servo manipulator,5,5.0,,0.05,5900,https://borunteofficial.com/products/brtv09wds5p0/
+BRTV13WDS5P0,5-axis servo manipulator,5,8.0,,0.05,7000,https://borunteofficial.com/products/brtv13wds5p0/
+BRTV17WSS5PC,5-axis servo manipulator,5,20.0,,0.05,10300,https://borunteofficial.com/products/brtv17wss5pc/
